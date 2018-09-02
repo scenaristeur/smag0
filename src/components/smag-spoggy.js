@@ -208,15 +208,20 @@ class SmagSpoggy extends PageViewElement {
     Le mode '<b>collaboratif</b>' permet de créer de graphes
     à plusieurs en même temps et se base sur le principe du chat :
     les informations que vous saisissez sont copiées temporairment
-    sur le serveur et envoyées à tous les participants connectés en mode collaboratif.
-    Il est possible de créer des graphes indépendant correspondant aux salles
+    sur le serveur qui se charge de les renvoyer à tous les participants connectés en mode collaboratif.
+    Il est possible de créer des graphes indépendants correspondant aux salles
     (room) dans la logique chat.<br>
     Le mode global est utilisé pour interagir avec des sources de données
-    RDF/Sparql telles que Wikipédia/dBpedia, Persée, Semantic Forms... (ou votre propre serveur Fuseki/Sparql)<br>
+    RDF/Sparql telles que Wikipédia/<a href="http://fr.dbpedia.org/" target="_blank">DBpedia</a>,
+     <a href="https://www.persee.fr/" target="_blank">Persée</a>,
+     <a href="http://semantic-forms.cc:9112/display?displayuri=http%3A%2F%2Fsemantic-forms.cc%3A9112%2Fldp%2F1526405370065-42086316854557885"
+     target="_blank">Semantic Forms</a> ou des instances
+       <a href="https://jena.apache.org/documentation/fuseki2/" target="_blank">Apache Fuseki</a>...<br>
     <br>
     En cas d'interrogations, nos équipes seront ravies de répondre à vos questions : <br>
     <p>mail : <a href="mailto:scenaristeur@gmail.com">scenaristeur@gmail.com</a></p>
-    <p>twitter : <a href="http://twitter.com/Dfaveris" target="_blank">@Dfaveris</p>
+    <p>twitter : <a href="http://twitter.com/Dfaveris" target="_blank">@Dfaveris</a></p>
+    <p>github : <a href="https://github.com/scenaristeur/spoggy" target="_blank">scenaristeur/spoggy</a></p>
     </p>
     </section>
     `;

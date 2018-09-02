@@ -239,7 +239,8 @@ class MyApp extends connect(store)(LitElement) {
     <footer>
     <p>Fait avec &hearts; par la Smag0 team.</p>
     <p>mail : <a href="mailto:scenaristeur@gmail.com">scenaristeur@gmail.com</a></p>
-    <p>twitter : <a href="http://twitter.com/Dfaveris" target="_blank">@Dfaveris</p>
+    <p>twitter : <a href="http://twitter.com/Dfaveris" target="_blank">@Dfaveris</a></p>
+    <p>github : <a href="https://github.com/scenaristeur/smag0" target="_blank">scenaristeur/smag0</a></p>
 
     </footer>
 
