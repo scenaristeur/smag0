@@ -49,8 +49,9 @@ class SmagSpoggy extends PageViewElement {
     Rendez-vous à l'adresse
     <b><a href="http://spoggy.herokuapp.com" target="_blank">http://spoggy.herokuapp.com</a></b>.<br>
     <small>( le chargement peut paraître long si le serveur est en veille )</small><br>
-    ou ici pour voir un exemple d'utiliation :
-    <a href="http://spoggy.herokuapp.com/?source=https://raw.githubusercontent.com/scenaristeur/heroku-spoggy/master/public/exemple_files/Spoggy_init.json" target="_blank">démo</a>
+    ou ici pour voir un exemple d'utilisation :
+    <a href="http://spoggy.herokuapp.com/?source=https://raw.githubusercontent.com/scenaristeur/heroku-spoggy/master/public/exemple_files/Spoggy_init.json" target="_blank">
+    démo : Les fonctionnalités de Spoggy</a>
 
 
     <ul>
