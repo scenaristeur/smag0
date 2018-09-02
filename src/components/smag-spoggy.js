@@ -102,8 +102,7 @@ class SmagSpoggy extends PageViewElement {
     Continuez maintenant votre graphe en ajoutant d'autres noeuds et d'autres liens.<br><br>
     <u>A noter :</u> Lorsque vous cliquez sur un noeud ou sur un lien existant,
     les boutons sont modifiés et vous pouvez de cette manière modifier ou supprimer l'élément sur lequel vous avez cliqué.<br><br>
-    <a href="/images/garfiled.png" target="_blank"><img src="/images/garfield.png" width="350px", height="350px"></a><br>
-    <a href="/images/garfiled2.png" target="_blank"><img src="/images/garfield2.png" width="350px", height="350px"></a>
+    <img src="/images/garfield2.png" width="300px", height="300px">
     </p>
     </section>
     <section>
