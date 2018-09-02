@@ -1,5 +1,8 @@
 
-# Spoggy3
+# Smag0
+source du site [http://smag0.netliofy.com](http://smag0.netlify.com)
+
+
 Une Pwa / Webapp ES6 basée sur [Polymer 3](https://www.polymer-project.org/3.0/docs/devguide/feature-overview) avec les modules [prpl-server](https://github.com/Polymer/prpl-server) / express pour nodejs.
 
 
@@ -7,8 +10,8 @@ Prerequis nodejs > 10
 # Installation
 
 ```
-git clone https://github.com/scenaristeur/spoggy3.git
-cd spoggy3
+git clone https://github.com/scenaristeur/smag0.git
+cd smag0
 npm install
 ```
 
