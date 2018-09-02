@@ -202,7 +202,7 @@ class SmagSpoggy extends PageViewElement {
 
     <section>
     <h2>Confidentialité<br>Sécurité des données</h2>
-    <p>Par défaut, Spopggy est dans le mode '<b>Solo</b>'
+    <p>Par défaut, Spoggy est dans le mode '<b>Solo</b>'
     et lors des manipulation décrites ci-dessus, aucune donnée n'est envoyée à nos serveurs,
     l'application fonctionne de manière autonome, entièrement dans la page web.<br>
     Le mode '<b>collaboratif</b>' permet de créer de graphes
