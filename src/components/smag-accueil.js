@@ -28,7 +28,7 @@ class SmagAccueil extends PageViewElement {
     <section>
     <h2>Le Château des Robots</h2>
     <p>Le Château des Robots est un lieu ouvert au public, un showroom où les entreprises peuvent présenter leurs innovations.
-    C'est égalment un lieu d'expérimentations, proposant des ateliers de découverte des dernières innovations, des ateliers de programmation.
+    C'est également un lieu d'expérimentations, proposant des ateliers de découverte des dernières innovations, des ateliers de programmation.
     C'est aussi un lieu de résidence pour les étudiants qui souhaitent approfondir et / ou partager leurs connaissances dans les domaines aussi variés que l'intelligence artificielle,
     l'échange de données ouvertes...
     </p>
