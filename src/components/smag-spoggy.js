@@ -193,7 +193,7 @@ class SmagSpoggy extends PageViewElement {
     <b>/h</b> pour afficher l'aide, des exemples, des vidéos, des tutoriels...<br>
     Vous y apprendrez notamment les paramètres d'url, les réglages pour donner
     plus de souplesse ou de ressort à votre graphe, comment intégrer Spoggy dans votre site,
-    ou encore comment installer installer une version de Spoggy sur votre machine ou participer à son developpement..
+    ou encore comment installer une version locale de Spoggy sur votre machine ou participer à son developpement..
     </li>
     </ul>
     </p>
